@@ -1,2 +1,5 @@
 # first-steps
-This is very first thing I made ever. HTML & CSS
+This is very first thing I made ever. 
+HTML
+CSS
+C++
